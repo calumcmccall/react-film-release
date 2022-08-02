@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #282c34;
 }
 
 .App-logo {
@@ -35,4 +36,37 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.films a {
+  text-decoration: none;
+  color: #FFE45E;
+}
+
+li {
+  list-style: none;
+}
+
+.tip-top {
+  background-color: #FFE45E;
+  color: #5AA9E6;
+}
+
+.films {
+  background-color: #5AA9E6;
+  color: #FFE45E;
+}
+
+.films a {
+  text-decoration: none;
+  color: #FFE45E;
+}
+
+.rock-bottom {
+  background-color: #FFE45E;
+}
+
+.rock-bottom a {
+  text-decoration: none;
+  color: #5AA9E6;
 }
